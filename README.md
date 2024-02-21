@@ -1,0 +1,3 @@
+# proyecto incial 
+- aprendiendo Git
+
